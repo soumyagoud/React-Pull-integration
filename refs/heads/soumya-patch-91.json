@@ -1,0 +1,1 @@
+[{"SelectTaxYear":{"id":"SelectTaxYear","uitype":"radio","title":"Select Tax Year","enum":["2016","2017","2018"]}},{"Audience":{"id":"Audience","uitype":"radio","title":"Audience","enum":["Customer","AGENT"]}}]
